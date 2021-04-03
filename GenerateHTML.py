@@ -88,9 +88,9 @@ def generate_html(title, description, experiement_name, column_name, text_sample
 title = 'Syntactic Tree TTS'
 description = ['Interspeech2021 Conversational TTS Samples']
 experiement_name = ['Demo']
-column_name = [['histroy','Baseline','Proposed']]
-tmp = [i for i in range(28)]
-audio_sample = [tmp, tmp]
+column_name = [['Histroy','Baseline','Proposed']]
+tmp = [10,13,15,20,29,30,32,3,4,5,6]
+audio_sample = [tmp]
 text_sample = []
 with open('./static/MOS-style/sentences.txt','r', encoding='utf-8') as f:
     for line in f.readlines():
@@ -98,8 +98,8 @@ with open('./static/MOS-style/sentences.txt','r', encoding='utf-8') as f:
 
 text_sample = [list(np.array(text_sample)[sub_audio_sample]) for sub_audio_sample in audio_sample]
 print(text_sample)
-audio_type = [[0, 1, 2], [0, 1, 2], [0, 1, 2], [0, 1, 2]]
-is_random = [False, False, False, False]
+audio_type = [[0, 1, 2]]
+is_random = [False]
 
 generate_html(title, description, experiement_name, column_name, text_sample, audio_sample, audio_type, is_random)
 
