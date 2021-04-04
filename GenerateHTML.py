@@ -85,7 +85,7 @@ def generate_html(title, description, experiement_name, column_name, text_sample
 
 
 #使用前设置好相关参数，将每个模型的音频文件放到wavs下的建立的'audio_*'目录中，可根据实际音频文件名修改格式，运行得到demo_index.html
-title = 'Syntactic Tree TTS'
+title = 'Conversational TTS Samples'
 description = ['Interspeech2021 Conversational TTS Samples']
 experiement_name = ['Demo']
 column_name = [['Histroy','Baseline','Proposed']]
