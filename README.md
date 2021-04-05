@@ -23,13 +23,13 @@ Chinese: 哇瞬间击太帅了
 
 * Baseline approach
 <audio controls>
-  <source src="https://github.com/thuhcsi/interspeech2019-tts-samples/raw/master/baseline/sample0.wav" type="audio/wav">
+  <source src="https://github.com/thuhcsi/interspeech2021-conversational-tts/raw/master/baseline/sample0.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 
 * Proposed approach
 <audio controls>
-  <source src="https://github.com/thuhcsi/interspeech2019-tts-samples/raw/master/proposed/sample0.wav" type="audio/wav">
+  <source src="https://github.com/thuhcsi/interspeech2021-conversational-tts/raw/master/proposed/sample0.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 
@@ -54,13 +54,13 @@ Chinese: 应该是这个皮肤
 
 * Baseline approach
 <audio controls>
-  <source src="https://github.com/thuhcsi/interspeech2019-tts-samples/raw/master/baseline/sample1.wav" type="audio/wav">
+  <source src="https://github.com/thuhcsi/interspeech2021-conversational-tts/raw/master/baseline/sample1.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 
 * Proposed approach
 <audio controls>
-  <source src="https://github.com/thuhcsi/interspeech2019-tts-samples/raw/master/proposed/sample1.wav" type="audio/wav">
+  <source src="https://github.com/thuhcsi/interspeech2021-conversational-tts/raw/master/proposed/sample1.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 
@@ -85,13 +85,13 @@ Chinese: 我的肚子饿了
 
 * Baseline approach
 <audio controls>
-  <source src="https://github.com/thuhcsi/interspeech2019-tts-samples/raw/master/baseline/sample2.wav" type="audio/wav">
+  <source src="https://github.com/thuhcsi/interspeech2021-conversational-tts/raw/master/baseline/sample2.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 
 * Proposed approach
 <audio controls>
-  <source src="https://github.com/thuhcsi/interspeech2019-tts-samples/raw/master/proposed/sample2.wav" type="audio/wav">
+  <source src="https://github.com/thuhcsi/interspeech2021-conversational-tts/raw/master/proposed/sample2.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 
@@ -116,13 +116,13 @@ Chinese: 这是小女生吗
 
 * Baseline approach
 <audio controls>
-  <source src="https://github.com/thuhcsi/interspeech2019-tts-samples/raw/master/baseline/sample3.wav" type="audio/wav">
+  <source src="https://github.com/thuhcsi/interspeech2021-conversational-tts/raw/master/baseline/sample3.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 
 * Proposed approach
 <audio controls>
-  <source src="https://github.com/thuhcsi/interspeech2019-tts-samples/raw/master/proposed/sample3.wav" type="audio/wav">
+  <source src="https://github.com/thuhcsi/interspeech2021-conversational-tts/raw/master/proposed/sample3.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 
@@ -147,13 +147,13 @@ Chinese: 嗯还真没有看过
 
 * Baseline approach
 <audio controls>
-  <source src="https://github.com/thuhcsi/interspeech2019-tts-samples/raw/master/baseline/sample4.wav" type="audio/wav">
+  <source src="https://github.com/thuhcsi/interspeech2021-conversational-tts/raw/master/baseline/sample4.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 
 * Proposed approach
 <audio controls>
-  <source src="https://github.com/thuhcsi/interspeech2019-tts-samples/raw/master/proposed/sample4.wav" type="audio/wav">
+  <source src="https://github.com/thuhcsi/interspeech2021-conversational-tts/raw/master/proposed/sample4.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 
