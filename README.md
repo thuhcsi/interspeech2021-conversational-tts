@@ -1,4 +1,4 @@
-> Link to the paper: [Spoken Style Learning with Multi-modal Hierarchical Context Encoding for Conversational Text-to-Speech Synthesis](https://github.com/thuhcsi/interspeech2021-conversational-tts/raw/master/IS2021.PDF)
+> Link to the paper: [Spoken Style Learning with Multi-modal Hierarchical Context Encoding for Conversational Text-to-Speech Synthesis](https://github.com/thuhcsi/interspeech2021-conversational-tts/raw/master/IS2021.pdf)
 
 ## Samples of synthesized speech
 
