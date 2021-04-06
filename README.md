@@ -11,7 +11,7 @@ Chinese: A:保护我方花木兰呃那个|B:叫了个鸭子|A:这个大小姐肯
 #### Historical Conversations Speech
 
 <audio controls>
-  <source src="https://github.com/thuhcsi/interspeech2021-conversational-tts/raw/master/context/sample0.wav" type="audio/wav">
+  <source src="https://github.com/thuhcsi/interspeech2021-conversational-tts/raw/master/context/sample0.aac" type="audio/aac">
 Your browser does not support the audio element.
 </audio>
 
@@ -23,13 +23,13 @@ Chinese: B:哇瞬间击太帅了
 
 * Baseline approach
 <audio controls>
-  <source src="https://github.com/thuhcsi/interspeech2021-conversational-tts/raw/master/baseline/sample0.wav" type="audio/wav">
+  <source src="https://github.com/thuhcsi/interspeech2021-conversational-tts/raw/master/baseline/sample0.aac" type="audio/aac">
 Your browser does not support the audio element.
 </audio>
 
 * Proposed approach
 <audio controls>
-  <source src="https://github.com/thuhcsi/interspeech2021-conversational-tts/raw/master/proposed/sample0.wav" type="audio/wav">
+  <source src="https://github.com/thuhcsi/interspeech2021-conversational-tts/raw/master/proposed/sample0.aac" type="audio/aac">
 Your browser does not support the audio element.
 </audio>
 
@@ -42,7 +42,7 @@ Chinese: A:关键是什么关键是猴子他不会切后排|B:鲁班的大招可
 #### Historical Conversations Speech
 
 <audio controls>
-  <source src="https://github.com/thuhcsi/interspeech2021-conversational-tts/raw/master/context/sample1.wav" type="audio/wav">
+  <source src="https://github.com/thuhcsi/interspeech2021-conversational-tts/raw/master/context/sample1.aac" type="audio/aac">
 Your browser does not support the audio element.
 </audio>
 
@@ -54,13 +54,13 @@ Chinese: B:应该是这个皮肤
 
 * Baseline approach
 <audio controls>
-  <source src="https://github.com/thuhcsi/interspeech2021-conversational-tts/raw/master/baseline/sample1.wav" type="audio/wav">
+  <source src="https://github.com/thuhcsi/interspeech2021-conversational-tts/raw/master/baseline/sample1.aac" type="audio/aac">
 Your browser does not support the audio element.
 </audio>
 
 * Proposed approach
 <audio controls>
-  <source src="https://github.com/thuhcsi/interspeech2021-conversational-tts/raw/master/proposed/sample1.wav" type="audio/wav">
+  <source src="https://github.com/thuhcsi/interspeech2021-conversational-tts/raw/master/proposed/sample1.aac" type="audio/aac">
 Your browser does not support the audio element.
 </audio>
 
@@ -73,7 +73,7 @@ Chinese: A:我的天啊这大小姐是真的费|B:我不看会儿行不|B:马上
 #### Historical Conversations Speech
 
 <audio controls>
-  <source src="https://github.com/thuhcsi/interspeech2021-conversational-tts/raw/master/context/sample2.wav" type="audio/wav">
+  <source src="https://github.com/thuhcsi/interspeech2021-conversational-tts/raw/master/context/sample2.aac" type="audio/aac">
 Your browser does not support the audio element.
 </audio>
 
@@ -85,13 +85,13 @@ Chinese: A:我的肚子饿了
 
 * Baseline approach
 <audio controls>
-  <source src="https://github.com/thuhcsi/interspeech2021-conversational-tts/raw/master/baseline/sample2.wav" type="audio/wav">
+  <source src="https://github.com/thuhcsi/interspeech2021-conversational-tts/raw/master/baseline/sample2.aac" type="audio/aac">
 Your browser does not support the audio element.
 </audio>
 
 * Proposed approach
 <audio controls>
-  <source src="https://github.com/thuhcsi/interspeech2021-conversational-tts/raw/master/proposed/sample2.wav" type="audio/wav">
+  <source src="https://github.com/thuhcsi/interspeech2021-conversational-tts/raw/master/proposed/sample2.aac" type="audio/aac">
 Your browser does not support the audio element.
 </audio>
 
@@ -104,7 +104,7 @@ Chinese: A:那那你现在就是你你小你小时候上学的时候你们家附
 #### Historical Conversations Speech
 
 <audio controls>
-  <source src="https://github.com/thuhcsi/interspeech2021-conversational-tts/raw/master/context/sample3.wav" type="audio/wav">
+  <source src="https://github.com/thuhcsi/interspeech2021-conversational-tts/raw/master/context/sample3.aac" type="audio/aac">
 Your browser does not support the audio element.
 </audio>
 
@@ -116,13 +116,13 @@ Chinese: A:这是小女生吗
 
 * Baseline approach
 <audio controls>
-  <source src="https://github.com/thuhcsi/interspeech2021-conversational-tts/raw/master/baseline/sample3.wav" type="audio/wav">
+  <source src="https://github.com/thuhcsi/interspeech2021-conversational-tts/raw/master/baseline/sample3.aac" type="audio/aac">
 Your browser does not support the audio element.
 </audio>
 
 * Proposed approach
 <audio controls>
-  <source src="https://github.com/thuhcsi/interspeech2021-conversational-tts/raw/master/proposed/sample3.wav" type="audio/wav">
+  <source src="https://github.com/thuhcsi/interspeech2021-conversational-tts/raw/master/proposed/sample3.aac" type="audio/aac">
 Your browser does not support the audio element.
 </audio>
 
@@ -135,7 +135,7 @@ Chinese: A:演的电视剧我都没有看过可能看过吧但是自个根本就
 #### Historical Conversations Speech
 
 <audio controls>
-  <source src="https://github.com/thuhcsi/interspeech2021-conversational-tts/raw/master/context/sample4.wav" type="audio/wav">
+  <source src="https://github.com/thuhcsi/interspeech2021-conversational-tts/raw/master/context/sample4.aac" type="audio/aac">
 Your browser does not support the audio element.
 </audio>
 
@@ -147,13 +147,13 @@ Chinese: B:嗯还真没有看过
 
 * Baseline approach
 <audio controls>
-  <source src="https://github.com/thuhcsi/interspeech2021-conversational-tts/raw/master/baseline/sample4.wav" type="audio/wav">
+  <source src="https://github.com/thuhcsi/interspeech2021-conversational-tts/raw/master/baseline/sample4.aac" type="audio/aac">
 Your browser does not support the audio element.
 </audio>
 
 * Proposed approach
 <audio controls>
-  <source src="https://github.com/thuhcsi/interspeech2021-conversational-tts/raw/master/proposed/sample4.wav" type="audio/wav">
+  <source src="https://github.com/thuhcsi/interspeech2021-conversational-tts/raw/master/proposed/sample4.aac" type="audio/aac">
 Your browser does not support the audio element.
 </audio>
 
