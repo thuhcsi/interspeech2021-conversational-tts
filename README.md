@@ -49,12 +49,22 @@ Your browser does not support the audio element.
 
 ### Transcripts
 
-A:你小时候上学的时候你们家附近会有你上学的好朋友嘛  
-A:就是会跟他们住在附近吗一起吗  
-B:嗯当时的话是会有那种一两个小朋好好的  
-B:好的那种朋友呢然后呃之前的话玩的也特别好然后而且我还我当时还记得呢就是他们家  
-B:他们他妈做的有一种包子特别的好吃
-A:这是小女生吗
+A：你小时候上学的时候，你们家附近会有你上学的好朋友吗？  
+A：就是会跟他们住在附近吗，一起吗？  
+B：嗯当时的话是会有那种一两个小朋…好…好的…好的那种朋友呢。(B 口吃了。)  
+B：然后，呃…之前的话玩的也特别好。  
+B：然后而且我还我当时还记得呢就是他们家…他们…他妈做的有一种包子特别的好吃。  
+A（合成）：这是小女生吗？
+
+
+### English translations
+
+A: When you are in primary school, is there any friend in school that also lives around your home?  
+A: They live next to your home, or nearby?  
+B: Yes, there were a few go ... good ... good friends at that time. (B is stuttering.)  
+B: And we were playing well.  
+B: And I still remember that a ... a friend's mom cooked delicious buns.  
+A: (Is this friend) A little girl?
 
 ### Audios
 
