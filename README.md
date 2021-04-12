@@ -17,12 +17,12 @@ B（合成）：哇，瞬间击，太帅了！
 
 A and B are playing mobile game.
 
-A: We should protect Mulan. Emm, that ... (Mulan is the name of a character in the game.)  
+A: We should protect Mulan. Oh that ... (Mulan is the name of a character in the game.)  
 B (Interrupting): "I called a duck"?  (B found a funny username in the game.)  
 A (Continue): This Missy will be definetly defeated. (Missy is the nickname of another character in the game.)  
 B: This seems to be a test server again.  
-A: Our defence in the middle is crashing. I'm taking the mid ... I'm protect the middle. (A misspoken a word.)  
-B (Synthesized): Wow, "Instant Hit", awesome! ("Instant Hit" is the name of a skill in the game.)
+A: Our defence in the middle is crashing. I'll take the mid ... I'll protect the middle. (A misspoken a word.)  
+B (Synthesized): Wow, "Instant hit", awesome! ("Instant hit" is the name of a skill in the game.)
 
 ### Audios
 
