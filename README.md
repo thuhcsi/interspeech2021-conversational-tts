@@ -7,10 +7,10 @@
 A 和 B 正在玩手机游戏。
 
 A：保护我方花木兰。呃，那个…（花木兰是游戏内角色的名字。）  
-B（打断）："叫了个鸭子"？（B看到了游戏内的一个有趣的用户名。）  
+B（打断）："叫了个鸭子"？（B 看到了游戏内的一个有趣的用户名。）  
 A（接上句）：这个大小姐肯定要被他搞死。（大小姐是游戏内另一个角色的昵称。）  
 B：这个好像又是测试服。  
-A：中路要崩了，我要去拿我的中…保护我的中路。（A发生了口误。）  
+A：中路要崩了，我要去拿我的中…保护我的中路。（A 发生了口误。）  
 B（合成）：哇，瞬间击，太帅了！
 
 ### English translations
@@ -61,7 +61,7 @@ A（合成）：这是小女生吗？
 
 A: When you are in primary school, is there any friend in school that also lives around your home?  
 A: They live next to your home, or nearby?  
-B: Yes, there were a few go ... good ... good friends at that time. (B is stuttering.)  
+B: Yes, there were a few go ... good ... good friends at that time. (B was stuttering.)  
 B: And we were playing well.  
 B: And I still remember that a ... a friend's mom cooked delicious buns.  
 A: (Is this friend) A little girl?
@@ -91,12 +91,21 @@ Your browser does not support the audio element.
 
 ### Transcripts
 
-A:演的电视剧我都没有看过，可能看过吧，但是自个根本就没有什么印象  
-A:然后这个而且那个聂远之前不是也是处于那种不温不火的状态嘛其实  
-B:听说过聂远  
-A:啊你没有听说过聂远吗  
-A:你没有看过之前那个什么《上错花轿嫁对郎》吗？
-B:嗯还真没有看过
+A：然后这个而且那个聂远之前不是也是处于那种不温不火的状态嘛，其实。（聂远是一名演员的名字。）  
+B：听说过聂远…  
+A（打断）：啊，你没有听说过聂远吗？（A 听错了 B 的话。）  
+B：嗯！（B 顺从了 A 的误解。）  
+A：你没有看过之前那个什么《上错花轿嫁对郎》吗？（《上错花轿嫁对郎》是一部电视剧。）  
+B（合成）：嗯，还真没有看过。
+
+### English translations
+
+A: And this ... this Nie Yuan is not that famous before, you know. (Nie Yuan is the name of an actor in China.)  
+B: I've heard Nie Yuan ...  
+A (Interrupting): What, haven't you never heard of Nie Yuan? (A misheard B.)  
+B: No. (B decided to follow A.)  
+A: Have you ever seen that "Wrong Carriage, Right Groom"? ("Wrong Carriage, Right Groom" is a TV show in China.)  
+B (Synthesized): No, haven't yet.
 
 ### Audios
 
