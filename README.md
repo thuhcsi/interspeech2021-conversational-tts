@@ -6,22 +6,22 @@
 
 A 和 B 正在玩手机游戏。
 
-A：保护我方花木兰。呃，那个…（花木兰是游戏内角色的名字。）
-B（打断）："叫了个鸭子"？（B看到了游戏内的一个有趣的用户名。）
-A（接上句）：这个大小姐肯定要被他搞死。（大小姐是游戏内另一个角色的昵称。）
-B：这个好像又是测试服。
-A：中路要崩了，我要去拿我的中…保护我的中路。（A发生了口误。）
+A：保护我方花木兰。呃，那个…（花木兰是游戏内角色的名字。）  
+B（打断）："叫了个鸭子"？（B看到了游戏内的一个有趣的用户名。）  
+A（接上句）：这个大小姐肯定要被他搞死。（大小姐是游戏内另一个角色的昵称。）  
+B：这个好像又是测试服。  
+A：中路要崩了，我要去拿我的中…保护我的中路。（A发生了口误。）  
 B（合成）：哇，瞬间击，太帅了！
 
 ### English translations
 
 A and B are playing mobile game.
 
-A: We should protect Mulan. Emm, that ... (Mulan is the name of a character in the game.)
-B (Interrupting): "I called a duck"?  (B found a funny username in the game.)
-A (Continue): This Missy will be definetly defeated. (Missy is the nickname of another character in the game.)
-B: This seems to be a test server again.
-A: Our defence in the middle is crashing. I'm taking the mid ... I'm protect the middle. (A misspoken a word.)
+A: We should protect Mulan. Emm, that ... (Mulan is the name of a character in the game.)  
+B (Interrupting): "I called a duck"?  (B found a funny username in the game.)  
+A (Continue): This Missy will be definetly defeated. (Missy is the nickname of another character in the game.)  
+B: This seems to be a test server again.  
+A: Our defence in the middle is crashing. I'm taking the mid ... I'm protect the middle. (A misspoken a word.)  
 B (Synthesized): Wow, "Instant Hit", awesome! ("Instant Hit" is the name of a skill in the game.)
 
 ### Audios
